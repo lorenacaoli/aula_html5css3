@@ -1,2 +1,1 @@
-# aula_html5css3
-Aula de como usar html5 e css3
+# Projeto simples utilizando HTML e CSS
